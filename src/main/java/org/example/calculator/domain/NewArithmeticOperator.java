@@ -1,4 +1,6 @@
-package org.example.calculate;
+package org.example.calculator.domain;
+
+import org.example.calculator.domain.PositiveNumber;
 
 public interface NewArithmeticOperator {
     boolean supports(String operator);

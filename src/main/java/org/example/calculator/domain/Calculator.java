@@ -1,6 +1,9 @@
-package org.example;
+package org.example.calculator.domain;
 
-import org.example.calculate.*;
+import org.example.calculator.operator.AdditionOperator;
+import org.example.calculator.operator.DivisionOperator;
+import org.example.calculator.operator.MultiplaicationOperator;
+import org.example.calculator.operator.SubtractionOperator;
 
 import java.util.List;
 
